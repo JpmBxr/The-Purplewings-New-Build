@@ -23,7 +23,7 @@
                         satisfaction.</p>
                     <div class="btn-group">
                         <button id="getQuoteBtn2" class="ot-btn">Get Quote</button>
-                        <!-- <a href="about.html" class="ot-btn">Discover More</a> -->
+                        <!-- <a href="about.php" class="ot-btn">Discover More</a> -->
                         <a href="../../www.youtube.com/watch7eaa.html?v=_sI_Ps7JSEk" class="watch-btn popup-video">
                             <div class="play-btn style2"><i class="fas fa-play"></i></div>
                             <span class="text">Watch Video</span>
@@ -164,7 +164,7 @@
                                     campaigns. While I don't have specific
                                     information about The Purplewings.</p>
                                 <div class="box-icon"><img src="assets/img/service/service_box_1.png" alt="Icon"></div>
-                                <a href="contact.html" class="link-btn style-black">See All Services <i
+                                <a href="contact.php" class="link-btn style-black">See All Services <i
                                         class="fas fa-arrow-up-right"></i></a>
                             </div>
                         </div>
@@ -314,7 +314,7 @@
                 </div>
                 <div class="col-md-auto text-center">
                     <button id="getQuoteBtn3" class="ot-btn style3">Get Quote</button>
-                    <!-- <a href="shop-details.html" class="ot-btn style3">Let’s Get
+                    <!-- <a href="shop-details.php" class="ot-btn style3">Let’s Get
                         Started</a></div> -->
                 </div>
             </div>
@@ -400,7 +400,7 @@
                                 </li>
                             </ul>
                             <button id="getQuoteBtn4" class="ot-btn">Get Quote</button>
-                            <!-- <a href="about.html" class="ot-btn">Discover More</a> -->
+                            <!-- <a href="about.php" class="ot-btn">Discover More</a> -->
                         </div>
                         <div class="box-img"><img class="rounded-20" src="assets/img/normal/case_3.jpg" alt="image">
                         </div>
@@ -606,6 +606,6 @@
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/form.js"></script>
 </body>
-<!-- Mirrored from html.onertheme.com/tronix/index-3.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:46 GMT -->
+<!-- Mirrored from html.onertheme.com/tronix/index-3.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:46 GMT -->
 
 </html>

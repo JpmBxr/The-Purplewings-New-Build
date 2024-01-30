@@ -7,7 +7,7 @@
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Our Gallery</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Our Gallery</li>
                 </ul>
             </div>
@@ -23,7 +23,7 @@
                                     class="far fa-magnifying-glass-plus"></i></a></div>
                         <div class="box-content">
                             <p class="box-subtitle">IT Solution</p>
-                            <h3 class="box-title"><a href="project-details.html">Service Consoltation</a></h3>
+                            <h3 class="box-title"><a href="index.php">Service Consoltation</a></h3>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@
                                     class="far fa-magnifying-glass-plus"></i></a></div>
                         <div class="box-content">
                             <p class="box-subtitle">IT Solution</p>
-                            <h3 class="box-title"><a href="project-details.html">Website Security</a></h3>
+                            <h3 class="box-title"><a href="index.php">Website Security</a></h3>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                                     class="far fa-magnifying-glass-plus"></i></a></div>
                         <div class="box-content">
                             <p class="box-subtitle">IT Solution</p>
-                            <h3 class="box-title"><a href="project-details.html">Cross-Industry Expertise</a></h3>
+                            <h3 class="box-title"><a href="index.php">Cross-Industry Expertise</a></h3>
                         </div>
                     </div>
                 </div>
@@ -56,7 +56,7 @@
                                     class="far fa-magnifying-glass-plus"></i></a></div>
                         <div class="box-content">
                             <p class="box-subtitle">IT Solution</p>
-                            <h3 class="box-title"><a href="project-details.html">Business Solution</a></h3>
+                            <h3 class="box-title"><a href="index.php">Business Solution</a></h3>
                         </div>
                     </div>
                 </div>
@@ -67,7 +67,7 @@
                                     class="far fa-magnifying-glass-plus"></i></a></div>
                         <div class="box-content">
                             <p class="box-subtitle">IT Solution</p>
-                            <h3 class="box-title"><a href="project-details.html">Service Consoltation</a></h3>
+                            <h3 class="box-title"><a href="index.php">Service Consoltation</a></h3>
                         </div>
                     </div>
                 </div>
@@ -78,14 +78,14 @@
                                     class="far fa-magnifying-glass-plus"></i></a></div>
                         <div class="box-content">
                             <p class="box-subtitle">IT Solution</p>
-                            <h3 class="box-title"><a href="project-details.html">Website Security</a></h3>
+                            <h3 class="box-title"><a href="index.php">Website Security</a></h3>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="text-center mt-5">
                 <button id="getQuoteBtn2" class="ot-btn">Get Quote</button>
-                <!-- <a href="project.html" class="ot-btn">View More</a> -->
+                <!-- <a href="project.php" class="ot-btn">View More</a> -->
             </div>
         </div>
     </div>
@@ -122,6 +122,6 @@
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/form.js"></script>
 </body>
-<!-- Mirrored from html.onertheme.com/tronix/project.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:52 GMT -->
+<!-- Mirrored from html.onertheme.com/tronix/project.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:52 GMT -->
 
 </html>

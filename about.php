@@ -8,7 +8,7 @@
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">About Us</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>About Us</li>
                 </ul>
             </div>
@@ -22,8 +22,7 @@
     </div> -->
 
     <div class="space-bottom">
-        <div class="shape-mockup spin" data-top="40%" data-left="4%"><img src="assets/img/shape/shape_1.png"
-                alt="shape"></div>
+        <div class="shape-mockup spin" data-top="40%" data-left="4%"><img src="assets/img/shape/shape_1.png" alt="shape"></div>
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-xl-5 col-lg-6 text-center text-lg-start">
@@ -34,7 +33,7 @@
                         </div>
                         <div class="btn-group">
                             <button id="getQuoteBtn2" class="ot-btn">Get Quote</button>
-                            <!-- <a href="contact.html" class="ot-btn">Get Quote</a> -->
+                            <!-- <a href="contact.php" class="ot-btn">Get Quote</a> -->
                             <div class="call-text">
                                 <h4 class="box-title">Call Us: +(91) 9525-950748</h4><span class="box-text">For any
                                     question</span>
@@ -146,10 +145,8 @@
         <div class="shape-mockup pulse" data-bottom="12%" data-right="2%">
             <div class="shape-circle circle2"></div>
         </div>
-        <div class="shape-mockup pulse d-none d-xl-block" data-top="45%" data-right="17%"><img
-                src="assets/img/testimonial/testi_2_4.png" alt="image"></div>
-        <div class="shape-mockup pulse d-none d-md-block" data-top="15%" data-right="6%"><img
-                src="assets/img/testimonial/testi_2_5.png" alt="image"></div>
+        <div class="shape-mockup pulse d-none d-xl-block" data-top="45%" data-right="17%"><img src="assets/img/testimonial/testi_2_4.png" alt="image"></div>
+        <div class="shape-mockup pulse d-none d-md-block" data-top="15%" data-right="6%"><img src="assets/img/testimonial/testi_2_5.png" alt="image"></div>
         <div class="container">
             <div class="title-area text-center">
                 <h2 class="sec-title">People Talk About Us</h2>
@@ -221,15 +218,13 @@
                 <div class="counter-card">
                     <div class="box-icon"><img src="assets/img/icon/counter_1_3.svg" alt="Icon"></div>
                     <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">498</span></h2><span
-                            class="box-text">SKILLED EXPERTS</span>
+                        <h2 class="box-number"><span class="counter-number">498</span></h2><span class="box-text">SKILLED EXPERTS</span>
                     </div>
                 </div>
                 <div class="counter-card">
                     <div class="box-icon"><img src="assets/img/icon/counter_1_4.svg" alt="Icon"></div>
                     <div class="media-body">
-                        <h2 class="box-number"><span class="counter-number">42.8</span>K</h2><span
-                            class="box-text">HAPPY CLIENTS</span>
+                        <h2 class="box-number"><span class="counter-number">42.8</span>K</h2><span class="box-text">HAPPY CLIENTS</span>
                     </div>
                 </div>
             </div>
@@ -242,25 +237,25 @@
 
     <!-- Your custom JavaScript -->
     <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var getQuoteBtn1 = document.getElementById("getQuoteBtn1");
-        var getQuoteBtn2 = document.getElementById("getQuoteBtn2");
-        var closeFormBtn = document.getElementById("closeFormBtn");
-        var contactFormPopup = document.getElementById("contactFormPopup");
+        document.addEventListener("DOMContentLoaded", function() {
+            var getQuoteBtn1 = document.getElementById("getQuoteBtn1");
+            var getQuoteBtn2 = document.getElementById("getQuoteBtn2");
+            var closeFormBtn = document.getElementById("closeFormBtn");
+            var contactFormPopup = document.getElementById("contactFormPopup");
 
-        function openPopup() {
-            contactFormPopup.style.display = "block";
-        }
+            function openPopup() {
+                contactFormPopup.style.display = "block";
+            }
 
-        function closePopup() {
-            contactFormPopup.style.display = "none";
-        }
+            function closePopup() {
+                contactFormPopup.style.display = "none";
+            }
 
-        getQuoteBtn1.addEventListener("click", openPopup);
-        getQuoteBtn2.addEventListener("click", openPopup);
+            getQuoteBtn1.addEventListener("click", openPopup);
+            getQuoteBtn2.addEventListener("click", openPopup);
 
-        closeFormBtn.addEventListener("click", closePopup);
-    });
+            closeFormBtn.addEventListener("click", closePopup);
+        });
     </script>
     <!-- End Popup -->
 
@@ -271,6 +266,6 @@
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/form.js"></script>
 </body>
-<!-- Mirrored from html.onertheme.com/tronix/about.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:46 GMT -->
+<!-- Mirrored from html.onertheme.com/tronix/about.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:46 GMT -->
 
 </html>

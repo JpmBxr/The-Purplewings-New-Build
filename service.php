@@ -7,7 +7,7 @@
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Services</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="index-2.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Services</li>
                 </ul>
             </div>
@@ -28,7 +28,7 @@
                             growing your online business.</p>
                         <br>
                         <button id="getQuoteBtn2" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -54,7 +54,7 @@
                             conversion matrices. We also take care of spents, ACoS and ROI.</p>
                         <br>
                         <button id="getQuoteBtn3" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
             </div>
@@ -74,7 +74,7 @@
                             research.</p>
                         <br>
                         <button id="getQuoteBtn4" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -100,7 +100,7 @@
                             products which helps to maximise the search results.</p>
                         <br>
                         <button id="getQuoteBtn5" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
             </div>
@@ -119,7 +119,7 @@
                             aspect.</p>
                         <br>
                         <button id="getQuoteBtn6" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -145,7 +145,7 @@
                             top shoots for baby products.</p>
                         <br>
                         <button id="getQuoteBtn7" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
             </div>
@@ -164,7 +164,7 @@
                             business not get interrupted for long time.</p>
                         <br>
                         <button id="getQuoteBtn8" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -192,7 +192,7 @@
                             apart from the competition.</p>
                         <br>
                         <button id="getQuoteBtn9" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
             </div>
@@ -212,7 +212,7 @@
                             custom web design, responsive design, mobile-first technology, SEO optimized.</p>
                         <br>
                         <button id="getQuoteBtn10" class="ot-btn">Get Quote</button>
-                        <!-- <a href="service.html" class="ot-btn">Learn More</a> -->
+                        <!-- <a href="service.php" class="ot-btn">Learn More</a> -->
                     </div>
                 </div>
                 <div class="col-xl-6">
@@ -272,6 +272,6 @@
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/form.js"></script>
 </body>
-<!-- Mirrored from html.onertheme.com/tronix/service.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:47 GMT -->
+<!-- Mirrored from html.onertheme.com/tronix/service.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:47 GMT -->
 
 </html>

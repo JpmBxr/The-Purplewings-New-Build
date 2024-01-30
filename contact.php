@@ -8,7 +8,7 @@
             <div class="breadcumb-content">
                 <h1 class="breadcumb-title">Contact Us</h1>
                 <ul class="breadcumb-menu">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li>Contact Us</li>
                 </ul>
             </div>
@@ -21,8 +21,7 @@
                     <div class="box-icon icon-btn"><i class="fas fa-phone"></i></div>
                     <div class="media-body">
                         <h3 class="box-title">Phone Number</h3>
-                        <p class="box-text"><a href="tel:+(91) 9525-950748">+(91) 9525-950748</a> <a
-                                href="tel:+(91) 7277-728129">+(91) 7277-728129</a></p>
+                        <p class="box-text"><a href="tel:+(91) 9525-950748">+(91) 9525-950748</a> <a href="tel:+(91) 7277-728129">+(91) 7277-728129</a></p>
                     </div>
                 </div>
                 <div class="divider"></div>
@@ -50,22 +49,22 @@
 
     <!-- Your custom JavaScript -->
     <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var getQuoteBtn1 = document.getElementById("getQuoteBtn1");
-        var closeFormBtn = document.getElementById("closeFormBtn");
-        var contactFormPopup = document.getElementById("contactFormPopup");
+        document.addEventListener("DOMContentLoaded", function() {
+            var getQuoteBtn1 = document.getElementById("getQuoteBtn1");
+            var closeFormBtn = document.getElementById("closeFormBtn");
+            var contactFormPopup = document.getElementById("contactFormPopup");
 
-        function openPopup() {
-            contactFormPopup.style.display = "block";
-        }
+            function openPopup() {
+                contactFormPopup.style.display = "block";
+            }
 
-        function closePopup() {
-            contactFormPopup.style.display = "none";
-        }
+            function closePopup() {
+                contactFormPopup.style.display = "none";
+            }
 
-        getQuoteBtn1.addEventListener("click", openPopup);
-        closeFormBtn.addEventListener("click", closePopup);
-    });
+            getQuoteBtn1.addEventListener("click", openPopup);
+            closeFormBtn.addEventListener("click", closePopup);
+        });
     </script>
     <!-- End Popup -->
     <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
@@ -75,6 +74,6 @@
     <script src="assets/js/custom.js"></script>
     <script src="assets/js/form.js"></script>
 </body>
-<!-- Mirrored from html.onertheme.com/tronix/contact.html by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:52:03 GMT -->
+<!-- Mirrored from html.onertheme.com/tronix/contact.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:52:03 GMT -->
 
 </html>

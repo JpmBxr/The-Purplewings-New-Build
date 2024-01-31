@@ -15,15 +15,18 @@
                                 start ranking higher, customers will find you more easily, and your sales will
                                 increase quickly.</p>
                             <div class="ot-social">
-                                <a href="https://www.facebook.com/profile.php?id=61555294172732&is_tour_completed=true"><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.instagram.com/the.purplewings/"><i
-                                        class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                                <a
+                                <a target="_blank"
                                     href="https://api.whatsapp.com/send?phone=919525950748&app=facebook&entry_point=page_cta"><i
                                         class="fab fa-whatsapp"></i></a>
+
+                                <a target="_blank" href="https://www.youtube.com/@the.purplewings"><i
+                                        class="fab fa-youtube"></i></a>
+
+                                <a target="_blank" href="https://www.instagram.com/the.purplewings/"><i
+                                        class="fab fa-instagram"></i></a>
+
+                                <a target="_blank" href="https://www.facebook.com/the.purplewing/"><i
+                                        class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>

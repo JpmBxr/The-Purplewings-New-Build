@@ -30,10 +30,11 @@ $message = $_POST['message'];
 $emailBody = "
 <!DOCTYPE html>
 <html lang='en'>
+
 <head>
     <meta charset='UTF-8'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <title>The Purplewings - Contact Form</title>
+    <title>The Purplewings - Contact Form-Query</title>
     <style>
         body {
             font-family: 'Arial', sans-serif;
@@ -47,29 +48,66 @@ $emailBody = "
 
         .success {
             color: #69418a;
+            margin: 10px 0;
             font-size: 24px;
             font-weight: bold;
         }
 
-        p {
-            margin: 10px 0;
-            font-size: 16px;
-            color: #333;
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th,
+        td {
+            border: 1px solid #fff;
+            padding: 5px;
+            text-align: left;
+        }
+
+        th {
+            width: 5%;
+        }
+
+        td {
+            width: 95%;
+        }
+
+        .msg {
+            vertical-align: top;
+            height: 10vh;
         }
     </style>
 </head>
+
 <body>
     <div class='container'>
-        <p class='success'>User Info</p>
-        <p>Name:- $name</p>
-        <p>Email:- $email</p>
-        <p>Mobile No:- $mobileno</p>
-        <p>Subject:- $subject</p>
-        <p>Message:- $message</p>
+        <p class='success'>Client Information</p>
+        <table>
+            <tr>
+                <th>Name</th>
+                <td>:- $name</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td>:- $email</td>
+            </tr>
+            <tr>
+                <th>Mobile No.</th>
+                <td>:- $mobileno</td>
+            </tr>
+            <tr>
+                <th>Subject</th>
+                <td>:- $subject</td>
+            </tr>
+            <tr class='msg'>
+                <th>Message</th>
+                <td>:- $message</td>
+            </tr>
+        </table>
     </div>
 </body>
 </html>
-
     ";
 // Perform database insert or any other processing as needed
 // For example, let's assume a simple insert query
@@ -87,13 +125,13 @@ if ($conn->query($sql) === TRUE) {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com'; // Set your SMTP server
         $mail->SMTPAuth = true;
-        $mail->Username = 'lovetojyoti@gmail.com'; // SMTP username
-        $mail->Password = 'epeofasiiythcuji'; // SMTP password
+        $mail->Username = 'lovetojyoti@gmail.com'; // SMTP username ---
+        $mail->Password = 'epeofasiiythcuji'; // SMTP password ---   ---  epeofasiiythcuji
         $mail->SMTPSecure = 'tls'; // Enable TLS encryption
         $mail->Port = 587; // TCP port to connect to
 
         // Recipients
-        $mail->setFrom('lovetojyoti@gmail.com');  // set From mail
+        $mail->setFrom('admin@thepurplewings.in');  // set From mail
         $mail->addAddress('lovetojpm@gmail.com'); // set To mail
         // Content
         $mail->isHTML(true); // Set email format to HTML

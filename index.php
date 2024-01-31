@@ -24,7 +24,7 @@
                     <div class="btn-group">
                         <button id="getQuoteBtn2" class="ot-btn">Get Quote</button>
                         <!-- <a href="about.php" class="ot-btn">Discover More</a> -->
-                        <a href="../../www.youtube.com/watch7eaa.html?v=_sI_Ps7JSEk" class="watch-btn popup-video">
+                        <a href="../../www.youtube.com/watch?v=x3UbQ406TUM" class="watch-btn popup-video">
                             <div class="play-btn style2"><i class="fas fa-play"></i></div>
                             <span class="text">Watch Video</span>
                         </a>
@@ -237,8 +237,7 @@
                                     <i class="fas fa-check"></i> Profit Expansion
                                 </li>
                             </ul>
-                        </div><a href="../../www.youtube.com/watch7eaa.html?v=_sI_Ps7JSEk"
-                            class="watch-btn popup-video">
+                        </div><a href="../../www.youtube.com/watch?v=x3UbQ406TUM" class="watch-btn popup-video">
                             <div class="play-btn style2"><i class="fas fa-play"></i></div><span
                                 class="text text-white">Video
                                 Showcase</span>
@@ -604,7 +603,11 @@
 
     <!-- Custom JS Files -->
     <script src="assets/js/custom.js"></script>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="assets/js/form.js"></script>
+
 </body>
 <!-- Mirrored from html.onertheme.com/tronix/index-3.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:46 GMT -->
 

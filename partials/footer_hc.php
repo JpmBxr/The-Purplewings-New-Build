@@ -12,14 +12,24 @@
                         </div>
                         <div class="social-card">
                             <h3 class="box-title text-white">Follow Us:</h3>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7195.968560039523!2d85.06609516298217!3d25.605438607556465!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1704533825865!5m2!1sen!2sin" width="600" height="165" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-                            <a target="_blank" href="https://www.google.com/maps/@25.605439,85.066095,14z?hl=en&entry=ttu" class="box-link text-center">Get Google Map
+                            <iframe
+                                src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7195.968560039523!2d85.06609516298217!3d25.605438607556465!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1704533825865!5m2!1sen!2sin"
+                                width="600" height="165" style="border:0;" allowfullscreen="" loading="lazy"
+                                referrerpolicy="no-referrer-when-downgrade"></iframe>
+                            <a target="_blank"
+                                href="https://www.google.com/maps/@25.605439,85.066095,14z?hl=en&entry=ttu"
+                                class="box-link text-center">Get Google Map
                                 Directions</a>
 
                             <div class="ot-social d-flex justify-content-center pt-3">
-                                <a target="_blank" href="https://www.facebook.com/profile.php?id=61555294172732&is_tour_completed=true"><i class="fab fa-facebook-f"></i></a>
-                                <a target="_blank" href="https://www.instagram.com/the.purplewings/"><i class="fab fa-instagram"></i></a>
-                                <a target="_blank" href="https://api.whatsapp.com/send?phone=919525950748&app=facebook&entry_point=page_cta"><i class="fab fa-whatsapp"></i></a>
+                                <a target="_blank"
+                                    href="https://www.facebook.com/profile.php?id=61555294172732&is_tour_completed=true"><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a target="_blank" href="https://www.instagram.com/the.purplewings/"><i
+                                        class="fab fa-instagram"></i></a>
+                                <a target="_blank"
+                                    href="https://api.whatsapp.com/send?phone=919525950748&app=facebook&entry_point=page_cta"><i
+                                        class="fab fa-whatsapp"></i></a>
                             </div>
                         </div>
                     </div>
@@ -35,22 +45,35 @@
                         <form action="#" id="contact-form" method="POST" class="input-label ajax-contact">
                             <div class="row">
                                 <div class="form-group line-input col-sm-6">
-                                    <input type="text" class="form-control custom-input" name="name" id="name" ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('name')" required="">
+                                    <input type="text" class="form-control custom-input" name="name" id="name"
+                                        ondragover="return false" ondrop="return false" onpaste="return false"
+                                        oninput="validateField('name')" required="">
                                     <label for="name">Name</label>
                                 </div>
                                 <div class="form-group line-input col-sm-6">
-                                    <input type="email" class="form-control custom-input" name="email" id="email" ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('email')" required="">
+                                    <input type="email" class="form-control custom-input" name="email" id="email"
+                                        ondragover="return false" ondrop="return false" onpaste="return false"
+                                        oninput="validateField('email')" required="">
                                     <label for="email">Email</label>
                                 </div>
                                 <div class="form-group line-input col-sm-6">
-                                    <input type="tel" class="form-control custom-input" name="mobileno" id="mobileno" ondragover="return false" ondrop="return false" onpaste="return false" maxlength="10" oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10); validateField('mobileno');" required="">
+                                    <input type="tel" class="form-control custom-input" name="mobileno" id="mobileno"
+                                        ondragover="return false" ondrop="return false" onpaste="return false"
+                                        maxlength="10"
+                                        oninput="this.value = this.value.replace(/[^0-9]/g, '').slice(0, 10); validateField('mobileno');"
+                                        required="">
                                     <label for="mobileno">Mobile No.</label>
                                 </div>
                                 <div class="form-group line-input col-sm-6">
-                                    <input type="text" class="form-control custom-input" name="subject" id="subject" ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('subject')" required="">
+                                    <input type="text" class="form-control custom-input" name="subject" id="subject"
+                                        ondragover="return false" ondrop="return false" onpaste="return false"
+                                        oninput="validateField('subject')" required="">
                                     <label for="subject">Subject</label>
                                 </div>
-                                <div class="form-group line-input col-12"><textarea name="message" id="message" ondragover="return false" ondrop="return false" onpaste="return false" oninput="validateField('message')" cols="30" rows="3" class="form-control custom-input" required=""></textarea>
+                                <div class="form-group line-input col-12"><textarea name="message" id="message"
+                                        ondragover="return false" ondrop="return false" onpaste="return false"
+                                        oninput="validateField('message')" cols="30" rows="3"
+                                        class="form-control custom-input" required=""></textarea>
                                     <label for="message">Message</label>
                                 </div>
                                 <div class="form-btn col-12 mt-10">
@@ -82,11 +105,18 @@
                                 start ranking higher, customers will find you more easily, and your sales will
                                 increase quickly.</p>
                             <div class="ot-social">
-                                <a href="https://www.facebook.com/profile.php?id=61555294172732&is_tour_completed=true"><i class="fab fa-facebook-f"></i></a>
-                                <a href="https://www.instagram.com/the.purplewings/"><i class="fab fa-instagram"></i></a>
-                                <a href="#"><i class="fab fa-linkedin-in"></i></a>
-                                <a href="#"><i class="fab fa-youtube"></i></a>
-                                <a href="https://api.whatsapp.com/send?phone=919525950748&app=facebook&entry_point=page_cta"><i class="fab fa-whatsapp"></i></a>
+                                <a target="_blank"
+                                    href="https://api.whatsapp.com/send?phone=919525950748&app=facebook&entry_point=page_cta"><i
+                                        class="fab fa-whatsapp"></i></a>
+
+                                <a target="_blank" href="https://www.youtube.com/@the.purplewings"><i
+                                        class="fab fa-youtube"></i></a>
+
+                                <a target="_blank" href="https://www.instagram.com/the.purplewings/"><i
+                                        class="fab fa-instagram"></i></a>
+
+                                <a target="_blank" href="https://www.facebook.com/the.purplewing/"><i
+                                        class="fab fa-facebook-f"></i></a>
                             </div>
                         </div>
                     </div>
@@ -134,7 +164,8 @@
 <!-- End Footer -->
 
 <div class="scroll-top"><svg class="progress-circle svg-content" width="100%" height="100%" viewBox="-1 -1 102 102">
-        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98" style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
+        <path d="M50,1 a49,49 0 0,1 0,98 a49,49 0 0,1 0,-98"
+            style="transition: stroke-dashoffset 10ms linear 0s; stroke-dasharray: 307.919, 307.919; stroke-dashoffset: 307.919;">
         </path>
     </svg>
 </div>

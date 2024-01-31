@@ -22,8 +22,12 @@ $(document).ready(function () {
         // Assuming your server responds with a success key in the JSON data
         if (data.success) {
           // Display a success message to the user
-          alert("Thank You For Contacting Us!");
-
+          // alert("Thank You For Contacting Us!");
+          Swal.fire({
+            icon: "success",
+            title: "Thank You!",
+            text: "For Contacting Us!",
+          });
           // Reset the form fields
           $("#contact-form")[0].reset();
         } else {
@@ -65,21 +69,42 @@ $(document).ready(function () {
       .done(function (data) {
         // Assuming your server responds with a success key in the JSON data
         if (data.success) {
-          $("#contactFormPopup").hide();
           // Display a success message to the user
-          alert("Thank You For Contacting Us!");
-
+          Swal.fire({
+            icon: "success",
+            title: "Thank You!",
+            text: "Your Data is Successfully Received!",
+          });
+          $("#contactFormPopup").hide();
           // Reset the form fields
           $("#contact-popup-form")[0].reset();
         } else {
           // Handle other cases if needed
-          console.log(data);
+          Swal.fire({
+            icon: "error",
+            title: "Error ! Please Try Again",
+            text: "Your Data is Not Received!",
+          });
+          $("#contactFormPopup").hide();
+          // Reset the form fields
+          $("#contact-popup-form")[0].reset();
+          // console.log(data);
         }
       })
       .fail(function (jqXHR, textStatus, errorThrown) {
         // Handle AJAX request failure
+        Swal.fire({
+          icon: "error",
+          title: "Server Failed! " + textStatus + ", " + errorThrown,
+          text: "Please Try Later",
+        });
+        $("#contactFormPopup").hide();
+        // Reset the form fields
+        $("#contact-popup-form")[0].reset();
+
         console.log("AJAX request failed: " + textStatus, errorThrown);
       })
+
       .always(function () {
         // Re-enable the submit button regardless of success or failure
         $("#submitBtn").prop("disabled", false);

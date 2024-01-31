@@ -270,6 +270,7 @@
     <script src="assets/js/main.js"></script>
     <!-- Custom JS Files -->
     <script src="assets/js/custom.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="assets/js/form.js"></script>
 </body>
 <!-- Mirrored from html.onertheme.com/tronix/service.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:47 GMT -->

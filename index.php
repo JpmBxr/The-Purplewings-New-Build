@@ -593,9 +593,9 @@
     </script>
     <!-- End Popup -->
 
-    <!-- Vendor JS Files -->
-    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <!-- Template Main JS File -->
     <script src="assets/js/app.min.js"></script>
@@ -603,11 +603,7 @@
 
     <!-- Custom JS Files -->
     <script src="assets/js/custom.js"></script>
-
-
-    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
     <script src="assets/js/form.js"></script>
-
 </body>
 <!-- Mirrored from html.onertheme.com/tronix/index-3.php by HTTrack Website Copier/3.x [XR&CO'2014], Fri, 05 Jan 2024 11:51:46 GMT -->
 

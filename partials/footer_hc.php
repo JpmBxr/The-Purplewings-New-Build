@@ -15,11 +15,12 @@
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m10!1m8!1m3!1d7195.968560039523!2d85.06609516298217!3d25.605438607556465!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sen!2sin!4v1704533825865!5m2!1sen!2sin"
                                 width="600" height="165" style="border:0;" allowfullscreen="" loading="lazy"
-                                referrerpolicy="no-referrer-when-downgrade"></iframe>
-                            <a target="_blank"
-                                href="https://www.google.com/maps/@25.605439,85.066095,14z?hl=en&entry=ttu"
-                                class="box-link text-center">Get Google Map
-                                Directions</a>
+                                referrerPolicy="no-referrer-when-downgrade"></iframe>
+
+                            <a href="https://www.google.com/maps/@25.605439,85.066095,14z?hl=en&entry=ttu"
+                                target="_blank" class="box-link text-center">
+                                Get Google Map Directions
+                            </a>
 
                             <div class="ot-social d-flex justify-content-center pt-3">
                                 <a target="_blank"

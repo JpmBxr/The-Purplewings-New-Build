@@ -33,19 +33,17 @@
     <meta name="theme-color" content="#ffffff">
 
     <!-- Google Fonts -->
-    <link rel="preconnect" href="../../fonts.googleapis.com/index.html">
+    <!-- <link rel="preconnect" href="../../fonts.googleapis.com/index.html">
     <link rel="preconnect" href="../../fonts.gstatic.com/index.html" crossorigin>
     <link
         href="../../fonts.googleapis.com/css2dfba.css?family=Hanken+Grotesk:wght@100;200;300;400;500;600;700;800&amp;family=Outfit:wght@300;400;500;600;700;800;900&amp;display=swap"
-        rel="stylesheet">
+        rel="stylesheet"> -->
 
     <!-- Template Main CSS File -->
     <link rel="stylesheet" href="assets/css/app.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
-
-    <!-- Vendor CSS Files -->
-    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
 
     <!-- Custom style CSS File -->
     <link rel="stylesheet" href="assets/css/customstyle.css">

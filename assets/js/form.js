@@ -26,18 +26,30 @@ $(document).ready(function () {
           Swal.fire({
             icon: "success",
             title: "Thank You!",
-            text: "For Contacting Us!",
+            text: "Your Data is Successfully Received!",
           });
           // Reset the form fields
           $("#contact-form")[0].reset();
         } else {
           // Handle other cases if needed
-          console.log(data);
+          Swal.fire({
+            icon: "error",
+            title: "Error ! Please Try Again",
+            text: "Your Data is Not Received!",
+          });
+          // Reset the form fields
+          $("#contact-form")[0].reset();
+          // console.log(data);
         }
       })
       .fail(function (jqXHR, textStatus, errorThrown) {
         // Handle AJAX request failure
-        console.log("AJAX request failed: " + textStatus, errorThrown);
+        Swal.fire({
+          icon: "error",
+          title: "Server request Failed!",
+          text: "Please Try again Sometime! " + textStatus + ", " + errorThrown,
+        });
+        // console.log("AJAX request failed: " + textStatus, errorThrown);
       })
       .always(function () {
         // Re-enable the submit button regardless of success or failure
@@ -95,16 +107,15 @@ $(document).ready(function () {
         // Handle AJAX request failure
         Swal.fire({
           icon: "error",
-          title: "Server Failed! " + textStatus + ", " + errorThrown,
-          text: "Please Try Later",
+          title: "Server request Failed!",
+          text: "Please Try again Sometime! " + textStatus + ", " + errorThrown,
         });
         $("#contactFormPopup").hide();
         // Reset the form fields
         $("#contact-popup-form")[0].reset();
 
-        console.log("AJAX request failed: " + textStatus, errorThrown);
+        // console.log("AJAX request failed: " + textStatus, errorThrown);
       })
-
       .always(function () {
         // Re-enable the submit button regardless of success or failure
         $("#submitBtn").prop("disabled", false);

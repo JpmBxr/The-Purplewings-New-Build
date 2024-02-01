@@ -16,6 +16,8 @@ $conn = mysqli_connect($servername, $username, $password, 'sampledb');
 if (mysqli_connect_errno()) {
     printf("Connect failed: %s\n", mysqli_connect_error());
     exit();
+} else {
+    echo "Connection successful!";
 }
 
 // Assuming your form data is sent using POST method
@@ -93,7 +95,7 @@ $emailBody = "
                 <td>:- $email</td>
             </tr>
             <tr>
-                <th>Mobile No.</th>
+                <th>Mobile</th>
                 <td>:- $mobileno</td>
             </tr>
             <tr>
@@ -125,13 +127,13 @@ if ($conn->query($sql) === TRUE) {
         $mail->isSMTP();
         $mail->Host = 'smtp.gmail.com'; // Set your SMTP server
         $mail->SMTPAuth = true;
-        $mail->Username = 'lovetojyoti@gmail.com'; // SMTP username ---
-        $mail->Password = 'epeofasiiythcuji'; // SMTP password ---   ---  epeofasiiythcuji
+        $mail->Username = 'thepurplewingsofficial@gmail.com'; // SMTP username ---
+        $mail->Password = 'indnckirnoeqizko'; // SMTP password ---  indnckirnoeqizko
         $mail->SMTPSecure = 'tls'; // Enable TLS encryption
         $mail->Port = 587; // TCP port to connect to
 
         // Recipients
-        $mail->setFrom('admin@thepurplewings.in');  // set From mail
+        $mail->setFrom('thepurplewingsofficial@gmail.com');  // set From mail
         $mail->addAddress('lovetojpm@gmail.com'); // set To mail
         // Content
         $mail->isHTML(true); // Set email format to HTML

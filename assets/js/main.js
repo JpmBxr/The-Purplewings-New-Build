@@ -2,7 +2,10 @@
   "use strict";
   if (
     (e(window).on("load", function () {
-      e(".preloader").fadeOut();
+      // Set a 3-second delay before fading out the preloader
+      setTimeout(function () {
+        e(".preloader").fadeOut();
+      }, 3000); // 3000 milliseconds (3 seconds)
     }),
     e(".preloader").length > 0 &&
       e(".preloaderCls").each(function () {
@@ -244,7 +247,7 @@
   // e(r).on("submit", function (e) {
   //   e.preventDefault(), u();
   // }),
-    (o = ".sidemenu-info"),
+  (o = ".sidemenu-info"),
     (i = ".sideMenuCls"),
     (l = "show"),
     e(".sideMenuInfo").on("click", function (t) {

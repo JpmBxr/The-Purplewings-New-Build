@@ -45,50 +45,35 @@
             </div>
             <div class="clients-slider swiper">
                 <div class="swiper-wrapper align-items-center">
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 1.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 1.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 2.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 2.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 3.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 3.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 4.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 4.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 5.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 5.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 6.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 6.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 7.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 7.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 8.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 8.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 9.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 9.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 10.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 10.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 11.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 11.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 12.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 12.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 13.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 13.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 14.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 14.png" class="img-fluid" alt="">
                     </div>
-                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 15.png" class="img-fluid"
-                            alt="">
+                    <div class="swiper-slide"><img src="assets/img/Service Partner/Service 15.png" class="img-fluid" alt="">
                     </div>
                 </div>
                 <div class="swiper-pagination"></div>
@@ -164,8 +149,7 @@
                                     campaigns. While I don't have specific
                                     information about The Purplewings.</p>
                                 <div class="box-icon"><img src="assets/img/service/service_box_1.png" alt="Icon"></div>
-                                <a href="contact.php" class="link-btn style-black">See All Services <i
-                                        class="fas fa-arrow-up-right"></i></a>
+                                <a href="contact.php" class="link-btn style-black">See All Services <i class="fas fa-arrow-up-right"></i></a>
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -178,8 +162,7 @@
                                     policy, they could not
                                     advertise many of their products on Vendor Central. Here’s how we helped.</p>
                                 <div class="box-icon"><img src="assets/img/service/service_box_2.png" alt="Icon"></div>
-                                <a href="#" class="link-btn style-black">Learn More <i
-                                        class="fas fa-arrow-up-right"></i></a>
+                                <a href="#" class="link-btn style-black">Learn More <i class="fas fa-arrow-up-right"></i></a>
                             </div>
                         </div>
                         <div class="col-md-4">
@@ -193,8 +176,7 @@
                                     They sold product to E-commerce
                                     as a vendor for five years before meeting with The Purplewings .</p>
                                 <div class="box-icon"><img src="assets/img/service/service_box_3.png" alt="Icon"></div>
-                                <a href="#" class="link-btn style-black">Learn More <i
-                                        class="fas fa-arrow-up-right"></i></a>
+                                <a href="#" class="link-btn style-black">Learn More <i class="fas fa-arrow-up-right"></i></a>
                             </div>
                         </div>
                     </div>
@@ -238,8 +220,7 @@
                                 </li>
                             </ul>
                         </div><a href="../../www.youtube.com/watch?v=x3UbQ406TUM" class="watch-btn popup-video">
-                            <div class="play-btn style2"><i class="fas fa-play"></i></div><span
-                                class="text text-white">Video
+                            <div class="play-btn style2"><i class="fas fa-play"></i></div><span class="text text-white">Video
                                 Showcase</span>
                         </a>
                     </div>
@@ -367,10 +348,8 @@
                 <div class="col-lg-auto">
                     <div class="case-img-group">
                         <div class="row gy-20">
-                            <div class="col-lg-12 col-6"><img class="rounded-15 w-100"
-                                    src="assets/img/normal/case_1.jpg" alt="image"></div>
-                            <div class="col-lg-12 col-6"><img class="rounded-15 w-100"
-                                    src="assets/img/normal/case_2.jpg" alt="image"></div>
+                            <div class="col-lg-12 col-6"><img class="rounded-15 w-100" src="assets/img/normal/case_1.jpg" alt="image"></div>
+                            <div class="col-lg-12 col-6"><img class="rounded-15 w-100" src="assets/img/normal/case_2.jpg" alt="image"></div>
                         </div>
                     </div>
                 </div>
@@ -565,36 +544,39 @@
 
     <!-- Your custom JavaScript -->
     <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var getQuoteBtn1 = document.getElementById("getQuoteBtn1");
-        var getQuoteBtn2 = document.getElementById("getQuoteBtn2");
-        var getQuoteBtn3 = document.getElementById("getQuoteBtn3");
-        var getQuoteBtn4 = document.getElementById("getQuoteBtn4");
-        var getQuoteBtn5 = document.getElementById("getQuoteBtn5");
-        var closeFormBtn = document.getElementById("closeFormBtn");
-        var contactFormPopup = document.getElementById("contactFormPopup");
+        document.addEventListener("DOMContentLoaded", function() {
+            var getQuoteBtn1 = document.getElementById("getQuoteBtn1");
+            var getQuoteBtn2 = document.getElementById("getQuoteBtn2");
+            var getQuoteBtn3 = document.getElementById("getQuoteBtn3");
+            var getQuoteBtn4 = document.getElementById("getQuoteBtn4");
+            var getQuoteBtn5 = document.getElementById("getQuoteBtn5");
+            var closeFormBtn = document.getElementById("closeFormBtn");
+            var contactFormPopup = document.getElementById("contactFormPopup");
 
-        function openPopup() {
-            contactFormPopup.style.display = "block";
-        }
+            function openPopup() {
+                contactFormPopup.style.display = "block";
+            }
 
-        function closePopup() {
-            contactFormPopup.style.display = "none";
-        }
+            function closePopup() {
+                contactFormPopup.style.display = "none";
+            }
 
-        getQuoteBtn1.addEventListener("click", openPopup);
-        getQuoteBtn2.addEventListener("click", openPopup);
-        getQuoteBtn3.addEventListener("click", openPopup);
-        getQuoteBtn4.addEventListener("click", openPopup);
-        getQuoteBtn5.addEventListener("click", openPopup);
+            getQuoteBtn1.addEventListener("click", openPopup);
+            getQuoteBtn2.addEventListener("click", openPopup);
+            getQuoteBtn3.addEventListener("click", openPopup);
+            getQuoteBtn4.addEventListener("click", openPopup);
+            getQuoteBtn5.addEventListener("click", openPopup);
 
-        closeFormBtn.addEventListener("click", closePopup);
-    });
+            closeFormBtn.addEventListener("click", closePopup);
+        });
     </script>
     <!-- End Popup -->
 
-    <script src="assets/js/jquery-3.7.1.min.js"></script>
-    <script src="assets/js/swiper-bundle.min.js"></script>
+    <!-- <script src="assets/js/jquery-3.7.1.min.js"></script>
+    <script src="assets/js/swiper-bundle.min.js"></script> -->
+    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
+    <!-- <script src="assets/js/swiper-bundle/swiper/swiper-bundle.min.js"></script> -->
+
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <!-- Template Main JS File -->

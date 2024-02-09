@@ -127,14 +127,150 @@
                 <h2 class="sec-title">Trusted by Brand Partners</h2>
             </div>
             <div class="brand-grid-wrap">
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_1.png" alt="Brand Logo"></div>
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_2.png" alt="Brand Logo"></div>
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_3.png" alt="Brand Logo"></div>
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_4.png" alt="Brand Logo"></div>
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_5.png" alt="Brand Logo"></div>
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_6.png" alt="Brand Logo"></div>
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_7.png" alt="Brand Logo"></div>
-                <div class="brand-grid"><img src="assets/img/brand/brand_1_8.png" alt="Brand Logo"></div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__1.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__2.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__3.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__4.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__5.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__6.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__7.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__8.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__9.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__10.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__11.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__12.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__13.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__14.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__15.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__16.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__17.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__18.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__19.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__20.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__21.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__22.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__23.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__24.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__25.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__26.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__27.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__28.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__29.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__30.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__31.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__32.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__33.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__34.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__35.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__36.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__37.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__38.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__39.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__40.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__41.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__42.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__43.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__44.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__45.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__46.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__47.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
+                <div class="brand-grid "><img src="assets/img/brand/Brand__48.png" style="width: 200px; height: 100px;"
+                        alt="Brand Logo">
+                </div>
             </div>
         </div>
     </div>
@@ -159,40 +295,161 @@
                     <div class="swiper-wrapper">
                         <div class="swiper-slide">
                             <div class="testi-box">
-                                <div class="box-img"><img src="assets/img/testimonial/testi_2_1.jpg" alt="Avater"></div>
-                                <h3 class="box-heading">“Elit penatibus curae aucto”</h3>
-                                <p class="box-text">Sem a penatibus varius dui nostra vehicula gravida congue, potenti
-                                    etiam erat justo faucibus fusce quis nulla eu, dignissim eget posuere blandit
-                                    curabitur porta inceptos. Inceptos faucibus fringilla pharetra mi suscipit curabitu
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Best Services Provider”</h3>
+                                <p class="box-text">Thank you for taking care of my Amazon account, optimizing products,
+                                    managing listings, planning inventory, and boosting sales. Your dedication and
+                                    expertise are greatly valued in our successful collaboration
                                 </p>
-                                <h4 class="box-title">Andrew Smith</h4>
-                                <p class="box-desig">Designer at <a href="https://www.google.com/">(Montan_Agency)</a>
-                                </p>
-                            </div>
-                        </div>
-                        <div class="swiper-slide">
-                            <div class="testi-box">
-                                <div class="box-img"><img src="assets/img/testimonial/testi_2_2.jpg" alt="Avater"></div>
-                                <h3 class="box-heading">“Elit penatibus curae aucto”</h3>
-                                <p class="box-text">Sem a penatibus varius dui nostra vehicula gravida congue, potenti
-                                    etiam erat justo faucibus fusce quis nulla eu, dignissim eget posuere blandit
-                                    curabitur porta inceptos. Inceptos faucibus fringilla pharetra mi suscipit curabitu
-                                </p>
-                                <h4 class="box-title">Alexan Miceli</h4>
-                                <p class="box-desig">Developer at <a href="https://www.google.com/">(Atanu_Agency)</a>
+                                <h4 class="box-title">Pratap Singh, India</h4>
+                                <p class="box-desig">Owner at <a href="#">(OCTOFUNESE)</a>
                                 </p>
                             </div>
                         </div>
                         <div class="swiper-slide">
                             <div class="testi-box">
-                                <div class="box-img"><img src="assets/img/testimonial/testi_2_3.jpg" alt="Avater"></div>
-                                <h3 class="box-heading">“Elit penatibus curae aucto”</h3>
-                                <p class="box-text">Sem a penatibus varius dui nostra vehicula gravida congue, potenti
-                                    etiam erat justo faucibus fusce quis nulla eu, dignissim eget posuere blandit
-                                    curabitur porta inceptos. Inceptos faucibus fringilla pharetra mi suscipit curabitu
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Account management service is the best, Product visibility is
+                                    increasing day by day”</h3>
+                                <p class="box-text">
+                                    I appreciate the level of care and attention you have shown to my business and the
+                                    personalized approach you have taken to understanding my unique needs. You have been
+                                    an invaluable partner in helping me achieve my goals, and I cannot thank you enough
+                                    for all that you have done.
                                 </p>
-                                <h4 class="box-title">Michael John</h4>
-                                <p class="box-desig">Mnager at <a href="https://www.google.com/">(Shila_Tech)</a></p>
+                                <h4 class="box-title">Sumit Gahlot, India</h4>
+                                <p class="box-desig">Director at <a href="#">(Shri Ganesh Enterprises)</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Experience and Quick Response”</h3>
+                                <p class="box-text">Very knowledgeable and helpful team. They always give me advice on
+                                    how we can increase sales on Amazon.
+                                </p>
+                                <h4 class="box-title">Amit, India
+                                </h4>
+                                <p class="box-desig">Owner at <a href="#">(A.K. OVERSEAS GOODS)</a></p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Good Team Work”</h3>
+                                <p class="box-text">
+                                    I appreciate the level of care and attention you have shown to my business and the
+                                    personalized approach you have taken to understanding my unique needs. You have been
+                                    an invaluable partner in helping me achieve my goals, and I cannot thank you enough
+                                    for all that you have done. Thanks.
+                                </p>
+                                <h4 class="box-title">Chhabra Fabrications, India</h4>
+                                <p class="box-desig">Owner at <a href="#">(CHHABRA FABRICATIONS)</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Excellent services”</h3>
+                                <p class="box-text">
+                                    Account management service is the best. Product visibility is increasing day by day.
+                                    Keep on doing such excellent creativity. I am really happy and satisfied with the
+                                    work of Team THE PURPLEWINGS
+                                </p>
+                                <h4 class="box-title">HM TRADING COMPANY, India</h4>
+                                <p class="box-desig">Owner at <a href="#">(HM TRADING COMPANY)</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Good work excellent creativity”</h3>
+                                <p class="box-text">
+                                    Account management service is the best. Product visibility is increasing day by day.
+                                    Keep on doing such excellent creativity. I am really happy and satisfied with the
+                                    work. I really appreciated their work—good communication from the team. And are
+                                    getting a timely response. Also, sales are getting improved day by day. always
+                                    support solving every problem that we are facing. I am really thankful to the
+                                    teamwork.
+                                </p>
+                                <h4 class="box-title">Nidhi, Indore
+                                </h4>
+                                <p class="box-desig">Owner at <a href="#">(TANU HARDWARE STORE)</a></p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Best SPN”</h3>
+                                <p class="box-text">
+                                    I Am very happy with the way of working.
+                                </p>
+                                <h4 class="box-title">Akram Ali, India</h4>
+                                <p class="box-desig">Owner at <a href="#">(MADARI BROTHERS)</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Really happy and satisfied”</h3>
+                                <p class="box-text">
+                                    Work done properly on time.
+                                </p>
+                                <h4 class="box-title">Kapil Dixit, India</h4>
+                                <p class="box-desig">Proprietor at <a href="#">(KAPIL'S RADIANCE)</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Nice service with innovative Technology”</h3>
+                                <p class="box-text">
+                                    The fulfilling services that THE PURPLEWINGS Technology provides astound me. After
+                                    utilising their account management services, I've been impressed with the rise in
+                                    sales that I've seen.Product visibility is growing daily; keep up the great work of
+                                    inventiveness. They were courteous and patient enough to listen to my questions, and
+                                    they were always accessible to answer them when I called.
+                                </p>
+                                <h4 class="box-title">Redsack Pvt. Ltd., India
+                                </h4>
+                                <p class="box-desig">Director at <a href="#">(REDSACK PRIVATE LIMITED)</a></p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Satisfactory Service”</h3>
+                                <p class="box-text">
+                                    I am sincerely grateful for the exceptional services you have provided team
+                                    PURPLEWINGS. It's rare to come across a team that consistently goes above and beyond
+                                    to deliver an outstanding customer experience. Your dedication, professionalism, and
+                                    commitment to excellence have made a lasting impression on me, I appreciate the
+                                    level of care and attention you have shown to my business and the personalized
+                                    approach you have taken to understanding my unique needs. You have been an
+                                    invaluable partner in helping me achieve my goals, and I will undoubtedly recommend
+                                    your services to others without hesitation. Go for it
+                                </p>
+                                <h4 class="box-title">Arogya Prakashan, GORAKHPUR</h4>
+                                <p class="box-desig">Owner at <a href="#">(Arogya Prakashan)</a>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="swiper-slide">
+                            <div class="testi-box">
+                                <div class="box-img"><img src="assets/img/testimonial/testi.png" alt="Avater"></div>
+                                <h3 class="box-heading">“Best Service Provider for amazon account”</h3>
+                                <p class="box-text">
+                                    Absolutely outstanding service! The team supports me in every manner I can to
+                                    provide the finest service for my account.
+                                </p>
+                                <h4 class="box-title">Avyukta Crest, India
+                                </h4>
+                                <p class="box-desig">Owner at <a href="#">(AVYUKTA CREST)</a></p>
                             </div>
                         </div>
                     </div>

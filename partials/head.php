@@ -6,8 +6,10 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>The Purplewings - Home</title>
     <meta name="author" content="The Purplewings">
-    <meta name="description" content="The Purplewings - Increase your E-commerce profits with our full-service account management We expertly optimize listings for maximum visibility and appeal along with strategic pricing">
-    <meta name="keywords" content="The Purplewings, Service Provider Network, SPN, Purplewings network, Service provider platform, Service network, Professional services, Business solutions, Provider directory, Purplewings community, B2B services, Service providers hub, Purplewings platform, Business networking, B2B connections, Purplewings membership">
+    <meta name="description"
+        content="The Purplewings - Increase your E-commerce profits with our full-service account management We expertly optimize listings for maximum visibility and appeal along with strategic pricing">
+    <meta name="keywords"
+        content="The Purplewings, Service Provider Network, SPN, Purplewings network, Service provider platform, Service network, Professional services, Business solutions, Provider directory, Purplewings community, B2B services, Service providers hub, Purplewings platform, Business networking, B2B connections, Purplewings membership">
     <meta name="robots" content="INDEX,FOLLOW">
     <meta name="viewport" content="width=device-width,initial-scale=1,shrink-to-fit=no">
     <!-- Favicons -->
@@ -41,10 +43,9 @@
     <link rel="stylesheet" href="assets/css/app.min.css">
     <link rel="stylesheet" href="assets/css/fontawesome.min.css">
     <link rel="stylesheet" href="assets/css/style.css">
-    <!-- <link rel="stylesheet" href="assets/css/swiper-bundle.min.css"> -->
 
     <!-- Vendor CSS Files -->
-    <!-- <link href="assets/swiper-bundle/swiper/swiper-bundle.min.css" rel="stylesheet"> -->
+    <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
 
     <!-- Custom style CSS File -->
     <link rel="stylesheet" href="assets/css/customstyle.css">

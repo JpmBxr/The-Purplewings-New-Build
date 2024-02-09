@@ -571,12 +571,10 @@
         });
     </script>
     <!-- End Popup -->
+    <script src="assets/js/jquery-3.7.1.min.js"></script>
 
-    <!-- <script src="assets/js/jquery-3.7.1.min.js"></script>
-    <script src="assets/js/swiper-bundle.min.js"></script> -->
-    <script src="assets/js/vendor/jquery-3.7.1.min.js"></script>
-    <!-- <script src="assets/js/swiper-bundle/swiper/swiper-bundle.min.js"></script> -->
-
+    <!-- Vendor JS Files -->
+    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
 
     <!-- Template Main JS File -->
